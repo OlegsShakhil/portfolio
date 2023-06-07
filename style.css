@@ -15,4 +15,7 @@ color:green;
 #main {
 color: yellow;
 }
+P[draggable]{
+color: purple;
+}
 
