@@ -16,7 +16,7 @@ color:green;
 #main {
 color: yellow;
 }
-h6 [draggable]{
+h6 [draggable=true]{
 color: purple;
 }
 
